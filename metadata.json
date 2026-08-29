@@ -1,0 +1,6 @@
+{
+  "name": "TalkLoop",
+  "description": "A communication app with Deep Indigo / Midnight Blue auth screen builder, Email and Phone OTP login, and Room database packet persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
